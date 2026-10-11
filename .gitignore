@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+# user data: never commit
+baseline*.json
+*.bdf
+*.edf
+# TDBRAIN-derived participant-level files (data-use agreement)
+cohort.csv
+eeg_*.csv
+eog_*.csv
+# generated demo inputs
+examples/*.csv
+examples/profile.json
+data/
+node_modules/
+.env
