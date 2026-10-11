@@ -1,0 +1,6 @@
+# core scoring engine (baseline.py, simple_score.py, complex_score.py, realtime.py)
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+# EDF/BDF input and TDBRAIN reference fitting only:
+mne>=1.6

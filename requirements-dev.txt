@@ -1,0 +1,4 @@
+-r requirements-server.txt
+-r requirements-bridge.txt
+httpx
+# optional camera tool tests: mediapipe==0.10.14, opencv-python-headless, scikit-image
